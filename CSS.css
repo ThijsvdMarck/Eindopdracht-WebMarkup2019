@@ -1,3 +1,6 @@
+.main{
+	
+}
 #Video{
     position: fixed;
     right: 0;
@@ -22,4 +25,9 @@
 	margin-right: auto;
 	margin-top: 100px;
 	background-color: #66ff66;
+	
+}
+#imgMenu{
+	max-width:100%;
+    height:auto;
 }
